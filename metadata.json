@@ -1,0 +1,6 @@
+{
+  "name": "Devil Labs — Architectural Showcase",
+  "description": "Interactive 3D architectural portfolio demo developed for Devil Labs (.dev), featuring real-time 3D building exploration, CAD floor plans, tactile material boards, and client brief generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
